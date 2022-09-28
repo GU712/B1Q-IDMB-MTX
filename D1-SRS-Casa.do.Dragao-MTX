@@ -78,7 +78,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
+<item>
 <title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]A Casa do Dragão[/B][/COLOR]</title>
 <link>imdb=tt11198330|season=1|episode=7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l6a81INNwpmncRbQxaulLIhkxal.jpg</thumbnail>
@@ -88,8 +88,28 @@ item>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item>
-<title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>
+<item>
+<title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]A Casa do Dragão[/B][/COLOR]</title>
+<link>imdb=tt11198330|season=1|episode=8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l6a81INNwpmncRbQxaulLIhkxal.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]A Casa do Dragão[/B][/COLOR]</title>
+<link>imdb=tt11198330|season=1|episode=8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l6a81INNwpmncRbQxaulLIhkxal.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
+<info>Não foram os sonhos que os tornaram reis. Foram os dragões.</info>
+<genre>FICÇÃO E FANTASIA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]A Casa do Dragão[/B][/COLOR]</title>
 <link>imdb=tt11198330|season=1|episode=8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l6a81INNwpmncRbQxaulLIhkxal.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hRG3C9SNXatz5ch2ZSC0BSDeCBS.jpg</fanart>
